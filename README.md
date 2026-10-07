@@ -6,13 +6,13 @@ A free, fully offline PDF toolkit in a **single HTML file**. Download it, double
 
 | Tool | What it does |
 |---|---|
-| 🧩 **Merge** | Combine several PDFs into one. Drag or use the arrows to set the order. |
-| 🗜️ **Compress** | Shrink scanned or image-heavy PDFs (low / medium / high). |
-| ✂️ **Split** | Extract page ranges like `1-3,5,8-10`, or split every page into its own PDF (downloaded as one `.zip`). |
-| 🗂️ **Reorder / Delete** | Drag page thumbnails to reorder, delete pages, rotate single pages. |
-| 🔄 **Rotate** | Rotate all pages or only the ones you pick. |
-| 📑 **Extract** | Click the pages you want and save them as a new PDF. |
-| 📝 **Convert to Word** | Turn a PDF into an editable `.docx`, or an image-based `.docx` that looks identical to the original. |
+|  **Merge** | Combine several PDFs into one. Drag or use the arrows to set the order. |
+|  **Compress** | Shrink scanned or image-heavy PDFs (low / medium / high). |
+|  **Split** | Extract page ranges like `1-3,5,8-10`, or split every page into its own PDF (downloaded as one `.zip`). |
+|  **Reorder / Delete** | Drag page thumbnails to reorder, delete pages, rotate single pages. |
+|  **Rotate** | Rotate all pages or only the ones you pick. |
+|  **Extract** | Click the pages you want and save them as a new PDF. |
+|  **Convert to Word** | Turn a PDF into an editable `.docx`, or an image-based `.docx` that looks identical to the original. |
 
 ## Usage
 
